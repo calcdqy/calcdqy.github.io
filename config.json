@@ -1,0 +1,27 @@
+{
+    "name": "calcdqy的个人主页",
+    "repo": "calcdqy的个人主页",
+    "client_id": "Ov23liG2GmSYJoVK3g2C",
+    "client_secret": "c0114e5187b3800272b19e6d16bc6e1bd751d366",
+    "title": "calcdqy的个人主页",
+    "instruction": "一个xxs的个人blog（",
+    "server_link": "http://119.23.8.25/gh-oauth-server.php",
+    "filter": {
+        "creator": "all",
+        "state": "open"
+    },
+    "menu": {
+        "首页":"./"
+    },
+    "friends": {
+        "pgrhtml5" : "sub/phigros-html5-main/index.html"
+    },
+    "icons": {
+        "Github" : {
+            "icon_src" : "images/github.svg",
+            "href" : "https://github.com/calcdqy",
+            "hidden_img" : null,
+            "width" : 0
+        }
+    }
+}
